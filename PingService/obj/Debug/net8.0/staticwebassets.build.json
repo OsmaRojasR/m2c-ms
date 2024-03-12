@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RSeTMHucdpebYRjs1f9ov95gqqhFNLQgAZHrimWmeVc=",
+  "Source": "PingService",
+  "BasePath": "_content/PingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
